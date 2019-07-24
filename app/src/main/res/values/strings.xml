@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aplikasi Input Output</string>
+    <string name="nama">Nama</string>
+    <string name="jam">Jam</string>
+    <string name="lapangan">Lapangan</string>
+    <string name="hari">Hari</string>
+    <string name="button">Output</string>
+    <string name="outputnama">Nama Pemboking :</string>
+    <string name="outputjam">Jam Sewa :</string>
+    <string name="outputlapangan">Lapangan :</string>
+    <string name="outputhari">Hari :</string>
+</resources>
